@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un estudiante de ingenieria de sistemas enfocado en Java, Python, SQL y con ganas de aprender muchos mas lengaujes. Con interés en proyectos de software, inteligencia artificial, análisis de datos y desarrollo web. Me encanta aprender cosas nuevas, colaborar en equipo y construir soluciones útiles.
+Soy un estudiante de ingenieria de sistemas enfocado en Java, Python, SQL y con ganas de aprender muchos mas lenguajes de programación. Con interés en proyectos de software, inteligencia artificial, análisis de datos y desarrollo web. Me encanta aprender cosas nuevas, colaborar en equipo y construir soluciones útiles.
 
 ---
 
