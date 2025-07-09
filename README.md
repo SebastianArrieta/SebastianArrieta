@@ -32,11 +32,9 @@ Soy un estudiante de ingenieria de sistemas enfocado en Java, Python, SQL y con 
 
 ## 🌐 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TuUsuario/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/TuUsuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/TuUsuario/](https://www.linkedin.com/in/sebastian-arrieta-9975552b5/))
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:sebastianarrietav7@gmail.com)
 
 ---
 
 
--->
