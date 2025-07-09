@@ -29,12 +29,6 @@ Soy un estudiante de ingenieria de sistemas enfocado en Java, Python, SQL y con 
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical)
-
----
 
 ## 🌐 Conéctate conmigo
 
