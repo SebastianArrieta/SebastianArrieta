@@ -112,7 +112,7 @@ because I enjoy both development and understanding how systems are protected and
 
 # 📫 Connect With Me
 
-- LinkedIn: [your-link](https://www.linkedin.com/in/sebastian-arrieta-9975552b5/)
+- LinkedIn: [(https://www.linkedin.com/in/sebastian-arrieta-9975552b5/)](https://www.linkedin.com/in/sebastian-arrieta-9975552b5/)
 - Portfolio: In process
 - Email: sebastianarrietav7@gmail.com
 -->
